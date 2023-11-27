@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swastiswarup
-- 👀 I’m interested in java,javascript,react and Nextjs
-- 🌱 I’m currently learning reactjs and Nextjs
-- 💞️ I’m looking to collaborate projects on reactjs or Nextjs
+- 👀 I’m interested in java,javascript,react and react-native,flutterflow and Nextjs
+- 🌱 I’m currently working on flutterflow and Nextjs Projects
+- 💞️ I’m looking to collaborate projects on Nextjs,React-Native, Flutterflow
 - 📫 How to reach me ..-swastiswarup1@gmail.com
 
 
